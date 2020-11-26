@@ -8,7 +8,7 @@ Google Colab can be used with a Gmail account.
 
 https://colab.research.google.com/
 
-Each notebook in this repository has button "Open in Colab" at the top.
+Each notebook in this repository has a button "Open in Colab" at the top.
 
 Click this button to open each respective notebook in Google Colab.
 
