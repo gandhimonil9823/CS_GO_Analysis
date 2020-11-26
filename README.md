@@ -4,7 +4,5 @@
 
 #### git clone https://github.com/gandhimonil9823/CS_GO_Analysis.git
 
-#### The preprocessed csv files are at /preprocessing/
-
 
 
