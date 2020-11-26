@@ -25,7 +25,7 @@ The dataset is hosted using a shared Google Drive; however, due to privacy restr
 | --- | --- |
 | Algorithm_Analysis.ipynb | Trains supervised learning models (LogisticRegression, RandomForestClassifier, KNeighborsClassifier, K-Means Clustering, Support Vector Machines, DecisionTreeClassifier, XGBClassifier, AdaBoostClassifier) and reports metrics for three different datasets |
 | CS_GO_Analysis_RandomForest_SVM_KNN.ipynb |  |
-| CS_GO_filter_data.ipynb |  |
+| CS_GO_filter_data.ipynb | Script to filter inconsistent data from dataset |
 | CS_GO_map_plot.ipynb |  |
 | Correlations_and_pairplots.ipynb | Displays Seaborn correlation matrices, heatmaps, and pairplots of the aggregated datasets |
 | Decisiontrees_on_agg.ipynb |  |
