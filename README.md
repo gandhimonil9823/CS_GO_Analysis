@@ -2,7 +2,9 @@
 
 #### How to Use
 
-1. Each of the files are in Jupyter Notebook format; however, they were developed using Google Colab.
+1. Notebooks
+
+Each of the files are in Jupyter Notebook format; however, they were developed using Google Colab.
 
 Google Colab can be used with a Gmail account.
 
@@ -12,7 +14,9 @@ Each notebook in this repository - when viewed - has a button "Open in Colab" at
 
 Click this button to open each respective notebook in Google Colab.
 
-2. The dataset is hosted using a shared Google Drive; however, due to privacy restrictions, permission must be granted on a per-email basis.  Please request access to the shared Google Drive from one of the team members.
+2. Dataset
+
+The dataset is hosted using a shared Google Drive; however, due to privacy restrictions, permission must be granted on a per-email basis.  Please request access to the shared Google Drive from one of the team members.
 
 
 #### Files
