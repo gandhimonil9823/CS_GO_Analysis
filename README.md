@@ -27,7 +27,6 @@ Click this button to open each respective notebook in Google Colab.
 | GunPlay_Economics_Analysis.ipynb |  |
 | Smoke_Analysis.ipynb |  |
 | XGBoost_and_AdaBoost_classifiers.ipynb |  |
-
 | preprocessing/Aggregate_data_matches.ipynb |  |
 | preprocessing/Aggregate_data_rounds.ipynb |  |
 | preprocessing/Aggregate_match_data.ipynb |  |
