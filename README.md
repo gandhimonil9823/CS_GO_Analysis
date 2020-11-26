@@ -17,3 +17,17 @@ Click this button to open each respective notebook in Google Colab.
 
 #### Files
 
+Algorithm_Analysis.ipynb
+Correlations_and_pairplots.ipynb
+CS_GO_Analysis_RandomForest_SVM_KNN.ipynb
+CS_GO_filter_data.ipynb
+CS_GO_map_plot.ipynb
+Decisiontrees_on_agg.ipynb
+GunPlay_Economics_Analysis.ipynb
+Smoke_Analysis.ipynb
+XGBoost_and_AdaBoost_classifiers.ipynb
+
+preprocessing/Aggregate_data_matches.ipynb
+preprocessing/Aggregate_data_rounds.ipynb
+preprocessing/Aggregate_match_data.ipynb
+preprocessing/preprocessing_v2.1.ipynb
