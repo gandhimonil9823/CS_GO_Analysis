@@ -12,7 +12,7 @@ Each notebook in this repository has button "Open in Colab" at the top.
 
 Click this button to open each respective notebook in Google Colab.
 
-2. The dataset is hosted using a shared Google Drive; however, due to privacy restrictions, permission must be granted an a per-email basis.  Please request access the shared Google Drive from one of the team members.
+2. The dataset is hosted using a shared Google Drive; however, due to privacy restrictions, permission must be granted on a per-email basis.  Please request access the shared Google Drive from one of the team members.
 
 
 #### Files
