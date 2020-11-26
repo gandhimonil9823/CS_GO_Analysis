@@ -23,7 +23,7 @@ The dataset is hosted using a shared Google Drive; however, due to privacy restr
 
 | File | Description |
 | --- | --- |
-| Algorithm_Analysis.ipynb | Trains supervised learning models (LogisticRegression, RandomForestClassifier, KNeighborsClassifier, K-Means Clustering, Support Vector Machines, DecisionTreeClassifier, XGBClassifier, AdaBoostClassifier) |
+| Algorithm_Analysis.ipynb | Trains supervised learning models (LogisticRegression, RandomForestClassifier, KNeighborsClassifier, K-Means Clustering, Support Vector Machines, DecisionTreeClassifier, XGBClassifier, AdaBoostClassifier) and reports metrics for three different datasets |
 | Correlations_and_pairplots.ipynb |  |
 | CS_GO_Analysis_RandomForest_SVM_KNN.ipynb |  |
 | CS_GO_filter_data.ipynb |  |
