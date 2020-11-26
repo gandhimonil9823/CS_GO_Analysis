@@ -29,7 +29,7 @@ The dataset is hosted using a shared Google Drive; however, due to privacy restr
 | CS_GO_map_plot.ipynb |  |
 | Correlations_and_pairplots.ipynb | Displays Seaborn correlation matrices, heatmaps, and pairplots of the aggregated datasets |
 | Decisiontrees_on_agg.ipynb |  |
-| GunPlay_Economics_Analysis.ipynb |  |
+| GunPlay_Economics_Analysis.ipynb | Displays various distributions about gun usage |
 | Smoke_Analysis.ipynb |  |
 | XGBoost_and_AdaBoost_classifiers.ipynb |  |
 | preprocessing/Aggregate_data_matches.ipynb |  |
