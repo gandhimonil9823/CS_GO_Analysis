@@ -10,7 +10,9 @@ Google Colab can be used with a Gmail account.
 
 https://colab.research.google.com/
 
-Each notebook in this repository - when viewed - has a button "Open in Colab" at the top.
+Each notebook in this repository is a standalone script which was used to display visualization, train models, or process data.
+
+When viewed, each notebook has a button "Open in Colab" at the top.
 
 Click this button to open each respective notebook in Google Colab.
 
