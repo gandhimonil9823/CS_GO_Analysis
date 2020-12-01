@@ -32,7 +32,7 @@ The dataset is hosted using a shared Google Drive; however, due to privacy restr
 | Correlations_and_pairplots.ipynb | Displays Seaborn correlation matrices, heatmaps, and pairplots of the aggregated datasets |
 | Decisiontrees_on_agg.ipynb |  |
 | GunPlay_Economics_Analysis.ipynb | Displays various distributions about gun usage |
-| Smoke_Analysis.ipynb |  |
+| Smoke_Analysis.ipynb | Script to analyze and cluster Grenade postions in relation to the position of the player |
 | XGBoost_and_AdaBoost_classifiers.ipynb |  |
 | preprocessing/Aggregate_data_matches.ipynb |  |
 | preprocessing/Aggregate_data_rounds.ipynb |  |
